@@ -4,4 +4,4 @@
     <li>Primeira opcao de saida ✅</li>
 </ol>
 
-<img src="Screenshot_1"/>
+<img src="Screenshot_1.png"/>
