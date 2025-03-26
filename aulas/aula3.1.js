@@ -7,3 +7,5 @@ if(nome === 'Pedro'){
 }else{
     console.log('ele possui outro nome');
 }
+
+//else if conceitos

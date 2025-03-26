@@ -14,3 +14,5 @@ console.log('pode entrar', podeEntrar);
 //= - atribuicao
 //== - comparacao 
 //=== - comparacao precisa
+
+// if e else conceitos

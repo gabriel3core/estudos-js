@@ -6,3 +6,5 @@ if(numero1 === 1){
 }
 
 console.log('resultado', numero2);
+
+// let e const conceitos
