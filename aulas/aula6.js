@@ -1,6 +1,5 @@
 let idade = 1;
 
-
 do {
     console.log('Passou', idade);
     idade++;
